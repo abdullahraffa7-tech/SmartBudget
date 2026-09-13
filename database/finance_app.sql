@@ -75,11 +75,6 @@ INSERT INTO `categories` (`user_id`, `name`, `type`, `icon`, `color`) VALUES
 (NULL, 'Tabungan',      'expense', 'save',         '#06B6D4'),
 (NULL, 'Lainnya',       'expense', 'more-horizontal','#94A3B8');
 
--- ============================================================
--- Contoh User Demo (password: demo1234)
--- ============================================================
-INSERT INTO `users` (`name`, `email`, `password`) VALUES
-('Demo User', 'demo@finance.app', '$2y$12$9GJJ7k8VCLJlHK4IJkFV8OPcmjIL4ADkdB35R0AJXeUCVqCy4Qjwm');
 
 -- ============================================================
 -- Contoh Transaksi Demo (user_id = 1)
