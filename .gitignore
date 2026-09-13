@@ -1,0 +1,15 @@
+# User uploads
+/uploads/
+
+# Debug / testing
+/debug/
+
+# Local/server secret files
+.env
+.env.*
+gemini_keys.php
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
